@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>better_enums</name>
+  <version>0.0.1</version>
+  <description>Improved enums for C++.</description>
+  <maintainer email="ryan@rwsinnet.com">Ryan Sinnet</maintainer>
+  <license>Proprietary</license>
+  <url type="repository">https://github.com/MisoRobotics/better-enums.git</url>
+  <url type="website">https://github.com/MisoRobotics/better-enums/wiki</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+    <architecture_independent/>
+  </export>
+</package>
