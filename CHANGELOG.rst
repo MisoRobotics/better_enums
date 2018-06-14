@@ -2,8 +2,8 @@
 Changelog for package better_enums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2018-06-13)
+------------------
 * Converting into ROS package.
 * Specialize map_compare for wchar_t (`#44 <https://github.com/MisoRobotics/better_enums/issues/44>`_)
   Add the template partial specialization:
