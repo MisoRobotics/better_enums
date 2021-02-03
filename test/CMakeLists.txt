@@ -1,6 +1,6 @@
 # Invoked automatically by the Makefile.
 
-cmake_minimum_required(VERSION 3.1.0 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 
 project("Better Enums Testing" CXX)
 
