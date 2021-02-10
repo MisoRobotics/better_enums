@@ -2,6 +2,18 @@
 Changelog for package better_enums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#5 <https://github.com/MisoRobotics/better_enums/issues/5>`_ from MisoRobotics/user/rsinnet/fix/build
+  Fix rosdebian build
+* Fix rosdebian build
+  Add missing install to CMakeLists.txt.
+* Merge pull request `#4 <https://github.com/MisoRobotics/better_enums/issues/4>`_ from MisoRobotics/master
+  Merge master back into develop
+* Merge pull request `#3 <https://github.com/MisoRobotics/better_enums/issues/3>`_ from MisoRobotics/release/1.0.0
+  Release/1.0.0
+* Contributors: Nikita Kosolobov, Ryan Sinnet
+
 1.0.0 (2018-06-13)
 ------------------
 * Converting into ROS package.
