@@ -2,8 +2,8 @@
 Changelog for package better_enums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2021-02-09)
+------------------
 * Merge pull request `#5 <https://github.com/MisoRobotics/better_enums/issues/5>`_ from MisoRobotics/user/rsinnet/fix/build
   Fix rosdebian build
 * Fix rosdebian build
