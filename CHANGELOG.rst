@@ -2,8 +2,8 @@
 Changelog for package better_enums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2021-05-17)
+------------------
 * Merge pull request `#8 <https://github.com/MisoRobotics/better_enums/issues/8>`_ from MisoRobotics/master
   Merge master back into develop
 * Merge pull request `#6 <https://github.com/MisoRobotics/better_enums/issues/6>`_ from MisoRobotics/user/rsinnet/feature/update-cmake
