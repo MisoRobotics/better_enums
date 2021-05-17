@@ -2,6 +2,18 @@
 Changelog for package better_enums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#8 <https://github.com/MisoRobotics/better_enums/issues/8>`_ from MisoRobotics/master
+  Merge master back into develop
+* Merge pull request `#6 <https://github.com/MisoRobotics/better_enums/issues/6>`_ from MisoRobotics/user/rsinnet/feature/update-cmake
+  Update CMake minimum version to 3.5
+* Add cloudbuild.yaml
+  Add gitlint with Google Cloud Build.
+* Update CMake minimum version to 3.5
+  Update minimum version to avoid deprecation warning.
+* Contributors: Ryan Sinnet
+
 1.0.1 (2021-02-09)
 ------------------
 * Merge pull request `#5 <https://github.com/MisoRobotics/better_enums/issues/5>`_ from MisoRobotics/user/rsinnet/fix/build
